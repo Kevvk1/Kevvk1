@@ -54,11 +54,11 @@
 
 ###
 
-<h3 align="left">✉️ Contact</h3>
+<h3 align="left">🙋🏻‍♂️ Wanna reach out?</h3>
 
 ###
 
-<p align="left">Feel free to reach out at kevin@castellano.ar or through Linkedln :)</p>
+<p align="left">kevin@castellano.ar — or come say hi on LinkedIn. :)</p>
 
 ###
 
